@@ -1,4 +1,5 @@
 <?php
+echo "Hello TBY WordPress"
 /**
  * WordPress User Page
  *
